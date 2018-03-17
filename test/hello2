@@ -1,6 +1,6 @@
 public class hello{
 	static public void main(Strings [] ){
-		System.out.println("changes  ");
+		System.out.println("edit ");
 	}
 
 }
